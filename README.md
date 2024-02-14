@@ -83,19 +83,19 @@
 | 16   | 14 SAB Driver | Wampler Plexi-Drive |Volume<br>Tone<br>Drive|
 | ●４：Mod/EQ     | Effect  | Inspired by   | KNOB |
 | 17   | 01 Tremolo    | Mad Professor Mellow Yellow     |Speed<br>Level<br>Depth|
-| 18   | 02 Chorus     | Boss CH-1 Super Chorus    ||
-| 19   | 03 Flanger    | Electro Harmonix Electric Mistress    ||
-| 20   | 04 Phaser     | MXR M-107 Phase 100 ||
-| 21   | 05 Vibrato    | BBE Mind Bender (vibrato switch only) ||
-| 22   | 06 UniVibe    | Shi-Nei Uni-vibe    ||
-| 23   | 07 Cloner Chorus    | Electro Harmonix Small Clone    ||
-| 24   | 08 Classic Vibe     | Voodoo Lab Micro Vibe     ||
-| 25   | 09 Tremolator | Demeter TRM-1 Tremulator  ||
-| 26   | 10 Tremolo Square   | TC Electronic Pipelilne   ||
-| 27   | 11 Guitar EQ  | MXR M109||
-| 28   | 12 Bass EQ    | MXR M109||
+| 18   | 02 Chorus     | Boss CH-1 Super Chorus    |E.Level<br>Rate<br>Depth<br>Tone|
+| 19   | 03 Flanger    | Electro Harmonix Electric Mistress    |Rate<br>Mix<br>Depth|
+| 20   | 04 Phaser     | MXR M-107 Phase 100 |Intensity<br>Speed|
+| 21   | 05 Vibrato    | BBE Mind Bender (vibrato switch only) |Speed<br>Depth|
+| 22   | 06 UniVibe    | Shi-Nei Uni-vibe    |Speed<br>Intensity|
+| 23   | 07 Cloner Chorus    | Electro Harmonix Small Clone    |Rate<br>High/Low|
+| 24   | 08 Classic Vibe     | Voodoo Lab Micro Vibe     |Speed<br>Intensity|
+| 25   | 09 Tremolator | Demeter TRM-1 Tremulator  |Depth<br>Speed|
+| 26   | 10 Tremolo Square   | TC Electronic Pipelilne   |Speed<br>Level<br>Depth|
+| 27   | 11 Guitar EQ  | MXR M109|100<br>200<br>400<br>800<br>1.6K<br>3.2K<br>Level|
+| 28   | 12 Bass EQ    | MXR M109|50<br>120<br>400<br>800<br>4.5K<br>10K<br>Level|
 | ●５：Delay| Effect  | Inspired by   | KNOB |
-| 29   | 01 Digital Delay    | Boss DD-3 Digital Delay   ||
+| 29   | 01 Digital Delay    | Boss DD-3 Digital Delay   |E.Level<br>F.Back<br>D.Time<br>Mode<br>BPM|
 | 30   | 02 Echo Filt  | Marshall Echohead EH-1    ||
 | 31   | 03 Vintage Delay    | Boss DM-3     ||
 | 32   | 04 Reverse Delay    | Positive Grid original    ||
