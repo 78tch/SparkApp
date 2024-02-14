@@ -18,45 +18,45 @@
 
 | No | カテゴリ | Amp | 参照モデル|Memo|
 |--|--|--|--|--|
-| 1  | Clean | Silver 120   | Roland JC120     ||
-| 2  || Black Duo    | Fender Twin Reverb     ||
-| 3  || AD Clean     | Orange AD 30     ||
-| 4  || MATCH DC     | Matchless DC30   ||
-| 5  || ODS 50 | Dumble ODS 50 HRM||
-| 6  | Glassy| Tweed Bass   | Fender Bassman   ||
-| 7  || AC Boost     | Vox AC30   ||
-| 8  || Checkmate    | Teisco Checkmate20     ||
-| 9  || Two Stone SP50     | Two Rock Studio Pro 50 ||
-| 10 | Crunch| American Deluxe    | Fender ’57 Custom Deluxe     ||
-| 11 || Plexiglas    | Marshall Super Lead 100||
-| 12 || JM45   | Marshall JTM45   ||
-| 13 || Lux Verb     | Fender Deluxe Reverb   ||
-| 14 || Blues Boy    | Fender Blues Junior    ||
-| 15 | High Gain   | RB 101 | Bogner Ecstasy 101     ||
-| 16 || British 30   | Orange AD30||
-| 17 || American High Gain | Mesa Boogie JP-2C||
-| 18 || SLO 100| Soldano SLO-100  ||
-| 19 || YJM100 | Marshall YJM100 Signature    ||
-| 20 | Metal | Treadplate   | Mesa Boogie Triple Rectifier ||
-| 21 || Insane | EVH 5150 III     ||
-| 22 || SwitchAxe    | H&K Switch Blade ||
-| 23 || Rocker V     | Orange Rockerverb 50   ||
-| 24 || BE 101 | Friedman BE100   ||
-| 25 || Insane 6508  | Peavey 6505||
-| 26 | Acoustic    | Pure Acoustic| PG Original||
-| 27 || Fishboy| Fishman Acoustic Amp   ||
-| 28 || Jumbo  | PG Original||
-| 29 || Flat Acoustic| PG Original||
-| 30 | Bass  | RB-800 | Gallien-Krueger 800RB  ||
-| 31 || Sunny 3000   | Sunn 300T  ||
-| 32 || W600   | Eden WTP600||
-| 33 || Hammer 500   | Aguilar Tone Hammer 500||
-| 34 | Experience Jimi Hendrix™ for Spark* | J.H. 45/100  | Marshall JTM45/100 ||
-| 35 || J.H. Super 100     | Marshall Super Lead 100||
-| 36 || J.H. Bass Master   | Fender 1968 BASSMAN 50 ||
-| 37 || J.H. D-Show Master | Fender DUAL SHOWMAN    ||
-| 38 || J.H. Sun 100S| SUNN 100S  ||
-| 39 || J.H. Tone City 100 | SOUND CITY One Hundred ||
+| 1  | Clean | Silver 120   | Roland JC120     |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 2  || Black Duo    | Fender Twin Reverb     |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 3  || AD Clean     | Orange AD 30     |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 4  || MATCH DC     | Matchless DC30   |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 5  || ODS 50 | Dumble ODS 50 HRM|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 8 || Blues Boy    | Fender Blues Junior    |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 9  | Glassy| Tweed Bass   | Fender Bassman   |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 10  || AC Boost     | Vox AC30   |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 11  || Checkmate    | Teisco Checkmate20     |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 12  || Two Stone SP50     | Two Rock Studio Pro 50 |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 15 | Crunch| American Deluxe    | Fender ’57 Custom Deluxe     |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 16 || Plexiglas    | Marshall Super Lead 100|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 17 || JM45   | Marshall JTM45   |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 18 || Lux Verb     | Fender Deluxe Reverb   |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 21 | High Gain   | RB 101 | Bogner Ecstasy 101     |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 22 || British 30   | Orange AD30|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 23 || American High Gain | Mesa Boogie JP-2C|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 24 || SLO 100| Soldano SLO-100  |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 25 || YJM100 | Marshall YJM100 Signature    |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 26 | Metal | Treadplate   | Mesa Boogie Triple Rectifier |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 27 || Insane | EVH 5150 III     |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 28 || Insane 6508  | Peavey 6505|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 29 || SwitchAxe    | H&K Switch Blade |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 30 || Rocker V     | Orange Rockerverb 50   |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 31 || BE 101 | Friedman BE100   |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 32 | Acoustic    | Pure Acoustic| PG Original|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 33 || Fishboy| Fishman Acoustic Amp   |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 34 || Jumbo  | PG Original|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 35 || Flat Acoustic| PG Original|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 36 | Bass  | RB-800 | Gallien-Krueger 800RB  |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 37 || Sunny 3000   | Sunn 300T  |Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 38 || W600   | Eden WTP600|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 39 || Hammer 500   | Aguilar Tone Hammer 500|Gain<br>Bass<br>Middle<br>Treble<br>Volume|
+| 6 |Jimi Hendrix| J.H. D-Show Master | Fender DUAL SHOWMAN    ||
+| 7 || J.H. Sun 100S| SUNN 100S  ||
+| 13 |  | J.H. 45/100  | Marshall JTM45/100 ||
+| 14 || J.H. Bass Master   | Fender 1968 BASSMAN 50 ||
+| 19 || J.H. Super 100     | Marshall Super Lead 100||
+| 20 || J.H. Tone City 100 | SOUND CITY One Hundred ||
 
 
 ## 4.エフェクターの一覧
