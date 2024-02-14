@@ -96,20 +96,20 @@
 | 28   | 12 Bass EQ    | MXR M109|50<br>120<br>400<br>800<br>4.5K<br>10K<br>Level|
 | ●５：Delay| Effect  | Inspired by   | KNOB |
 | 29   | 01 Digital Delay    | Boss DD-3 Digital Delay   |E.Level<br>F.Back<br>D.Time<br>Mode<br>BPM|
-| 30   | 02 Echo Filt  | Marshall Echohead EH-1    ||
-| 31   | 03 Vintage Delay    | Boss DM-3     ||
-| 32   | 04 Reverse Delay    | Positive Grid original    ||
-| 33   | 05 Multi Head | Boss RE-20 / Roland RE-201 Space Echo ||
-| 34   | 06 Echo Tape  | Maestro Echoplex EP-2 Tape Delay||
+| 30   | 02 Echo Filt  | Marshall Echohead EH-1    |Delay<br>FeedBack<br>Level<br>Tone|
+| 31   | 03 Vintage Delay    | Boss DM-3     |RepeatRate<br>Echo<br>Intensity|
+| 32   | 04 Reverse Delay    | Positive Grid original    |Mix<br>Decay<br>Filter<br>Time|
+| 33   | 05 Multi Head | Boss RE-20 / Roland RE-201 Space Echo |RepeatRate<br>Intensity<br>EchoVol<br>ModeSelector<br>BPM|
+| 34   | 06 Echo Tape  | Maestro Echoplex EP-2 Tape Delay|Sustain<br>Volume<br>Tone<br>Short/Long<br>BPM|
 | ●６：Reverb     | Effect  | Inspired by   | Memo |
-| 35   | 01 Room Studio A    |   ||
-| 36   | 02 Chamber    |   ||
-| 37   | 03 Hall Natural     |   ||
-| 38   | 04 Plate Short|   ||
-| 39   | 05 Hall Ambient     |   ||
-| 40   | 06 Plate Rich | EMT 140 Plate Reverb||
-| 41   | 07 Hall Medium| Electro Harmonix Holy Grail Reverb    ||
-| 42   | 08 Plate Long | Wampler Reflection Plate Reverb ||
+| 35   | 01 Room Studio A    |   |Levle<br>Damping<br>LowCut<br>HighCut<br>Dwell<br>Time|
+| 36   | 02 Chamber    |   |Level<br>Damping<br>LowCut<br>HighCut<br>Dwell<br>Time|
+| 37   | 03 Hall Natural     |   |Level<br>Damping<br>LowCut<br>HighCut<br>Dwell<br>Time|
+| 38   | 04 Plate Short|   |Level<br>Damping<br>LowCut<br>HighCut<br>Dwell<br>Time|
+| 39   | 05 Hall Ambient     |   |Level<br>Damping<br>LowCut<br>HighCut<br>Dwell<br>Time|
+| 40   | 06 Plate Rich | EMT 140 Plate Reverb|Level<br>Damping<br>LowCut<br>HighCut<br>Dwell<br>Time|
+| 41   | 07 Hall Medium| Electro Harmonix Holy Grail Reverb    |Level<br>Damping<br>LowCut<br>HighCut<br>Dwell<br>Time|
+| 42   | 08 Plate Long | Wampler Reflection Plate Reverb |Level<br>Damping<br>LowCut<br>HighCut<br>Dwell<br>Time|
 | 43   | 09 Room Studio B    |   ||
 | ●７：Jimi Hendrix | Effect  | Inspired by   | KNOB |
 | 44   | J.H. Axle Fuzz| Roger Mayer Axis Fuzz     ||
