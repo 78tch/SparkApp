@@ -61,28 +61,28 @@
 
 ## 4.エフェクターの一覧
 
-| ●１：Gate | Effect  | Inspired by   | Memo |
+| ●１：Gate | Effect  | Inspired by   | KNOB |
 |------------------------------------|---------------------|---------------------------------------|------|
-| 1    | Noise Gate    |   ||
-| ●２：Compression| Effect  | Inspired by   | Memo |
-| 2    | 01 LA Comp    | Teletronix LA-2A Compressor     ||
-| 3    | 02 Sustain Comp     | Boss CS-3     ||
-| 4    | 03 Red Comp   | MXR Dyna Comp ||
-| 5    | 04 Bass Comp  | EBS Multicomp ||
-| 6    | 05 Optical Comp     | BBE Opto Stomp||
-| ●３：Drive| Effect  | Inspired by   | Memo |
-| 7    | 01 Booster    | MXR Micro Amp ||
-| 8    | 02 Clone Drive| Klon Centaur  ||
-| 9    | 03 Tube Drive | Ibanez Tube Screamer||
-| 10   | 04 Over Drive | Boss OD-3     ||
-| 11   | 05 Fuzz Face  | Dunlop or Arbiter Fuzz Face     ||
-| 12   | 06 Black Op   | Pro Co RAT    ||
-| 13   | 07 Bass Muff  | Electro Harmonix Bass Big Muff Pi     ||
-| 14   | 08 Guitar Muff| Electro Harmonix Big Muff ||
-| 15   | 09 Bassmaster | Maestro Bass Brassmaster  ||
-| 16   | 10 SAB Driver | Wampler Plexi-Drive ||
-| ●４：Mod/EQ     | Effect  | Inspired by   | Memo |
-| 17   | 01 Tremolo    | Mad Professor Mellow Yellow     ||
+| 1    | Noise Gate    |   |Threshold<BR>Decay|
+| ●２：Compression| Effect  | Inspired by   | KNOB |
+| 2    | 01 LA Comp    | Teletronix LA-2A Compressor     |Gain<br>PeakReduction|
+| 3    | 02 Sustain Comp     | Boss CS-3     |Level<br>Tone<br>Attack<br>Sustain|
+| 4    | 03 Red Comp   | MXR Dyna Comp |Output<br>Sensitivity|
+| 5    | 04 Bass Comp  | EBS Multicomp |Comp<br>Gain|
+| 6    | 05 Optical Comp     | BBE Opto Stomp|Volume<br>Comp|
+| ●３：Drive| Effect  | Inspired by   | KNOB |
+| 7    | 01 Booster    | MXR Micro Amp |Gain|
+| 8    | 02 Clone Drive| Klon Centaur  |Gain<br>Treble<br>Output|
+| 9    | 03 Tube Drive | Ibanez Tube Screamer|Overdrive<br>Tone<br>Level|
+| 10   | 04 Over Drive | Boss OD-3     |Level<br>Tone<br>Drive|
+| 11   | 09 Fuzz Face  | Dunlop or Arbiter Fuzz Face     |Volume<br>Fuzz|
+| 12   | 10 Black Op   | Pro Co RAT    |Distortion<br>Filter<br>Volume|
+| 13   | 11 Bass Muff  | Electro Harmonix Bass Big Muff Pi     |Sustain<br>Tone<br>Volume|
+| 14   | 12 Guitar Muff| Electro Harmonix Big Muff |Volume<br>Tone<br>Sustain|
+| 15   | 13 Bassmaster | Maestro Bass Brassmaster  |BrassVol<br>Sensitivity<br>BassVol|
+| 16   | 14 SAB Driver | Wampler Plexi-Drive |Volume<br>Tone<br>Drive|
+| ●４：Mod/EQ     | Effect  | Inspired by   | KNOB |
+| 17   | 01 Tremolo    | Mad Professor Mellow Yellow     |Speed<br>Level<br>Depth|
 | 18   | 02 Chorus     | Boss CH-1 Super Chorus    ||
 | 19   | 03 Flanger    | Electro Harmonix Electric Mistress    ||
 | 20   | 04 Phaser     | MXR M-107 Phase 100 ||
@@ -94,7 +94,7 @@
 | 26   | 10 Tremolo Square   | TC Electronic Pipelilne   ||
 | 27   | 11 Guitar EQ  | MXR M109||
 | 28   | 12 Bass EQ    | MXR M109||
-| ●５：Delay| Effect  | Inspired by   | Memo |
+| ●５：Delay| Effect  | Inspired by   | KNOB |
 | 29   | 01 Digital Delay    | Boss DD-3 Digital Delay   ||
 | 30   | 02 Echo Filt  | Marshall Echohead EH-1    ||
 | 31   | 03 Vintage Delay    | Boss DM-3     ||
@@ -111,7 +111,7 @@
 | 41   | 07 Hall Medium| Electro Harmonix Holy Grail Reverb    ||
 | 42   | 08 Plate Long | Wampler Reflection Plate Reverb ||
 | 43   | 09 Room Studio B    |   ||
-| ●７：Jimi Hendrix | Effect  | Inspired by   | Memo |
+| ●７：Jimi Hendrix | Effect  | Inspired by   | KNOB |
 | 44   | J.H. Axle Fuzz| Roger Mayer Axis Fuzz     ||
 | 45   | J.H. Super Fuzz     | Marshall Supa Fuzz  ||
 | 46   | J.H. Octave Fuzz    | Roger Mayer Octavia ||
