@@ -61,60 +61,63 @@
 
 ## 4.エフェクターの一覧
 
-| ●１：Gate | Effect  | Inspired by |
-|------------------------------------|---------------------------------------|-------------|
-| Noise Gate |   | |
-| ●２：Compression| Effect  | Inspired by |
-| 01 LA Comp | Teletronix LA-2A Compressor     | |
-| 02 Sustain Comp  | Boss CS-3     | |
-| 03 Red Comp| MXR Dyna Comp | |
-| 04 Bass Comp     | EBS Multicomp | |
-| 05 Optical Comp  | BBE Opto Stomp| |
-| ●３：Drive| Effect  | Inspired by |
-| 01 Booster | MXR Micro Amp | |
-| 02 Clone Drive   | Klon Centaur  | |
-| 03 Tube Drive    | Ibanez Tube Screamer| |
-| 04 Over Drive    | Boss OD-3     | |
-| 05 Fuzz Face     | Dunlop or Arbiter Fuzz Face     | |
-| 06 Black Op| Pro Co RAT    | |
-| 07 Bass Muff     | Electro Harmonix Bass Big Muff Pi     | |
-| 08 Guitar Muff   | Electro Harmonix Big Muff | |
-| 09 Bassmaster    | Maestro Bass Brassmaster  | |
-| 10 SAB Driver    | Wampler Plexi-Drive | |
-| ●４：Mod/EQ     | Effect  | Inspired by |
-| 01 Tremolo | Mad Professor Mellow Yellow     | |
-| 02 Chorus  | Boss CH-1 Super Chorus    | |
-| 03 Flanger | Electro Harmonix Electric Mistress    | |
-| 04 Phaser  | MXR M-107 Phase 100 | |
-| 05 Vibrato | BBE Mind Bender (vibrato switch only) | |
-| 06 UniVibe | Shi-Nei Uni-vibe    | |
-| 07 Cloner Chorus | Electro Harmonix Small Clone    | |
-| 08 Classic Vibe  | Voodoo Lab Micro Vibe     | |
-| 09 Tremolator    | Demeter TRM-1 Tremulator  | |
-| 10 Tremolo Square| TC Electronic Pipelilne   | |
-| 11 Guitar EQ     | MXR M109| |
-| 12 Bass EQ | MXR M109| |
-| ●５：Delay| Effect  | Inspired by |
-| 01 Digital Delay | Boss DD-3 Digital Delay   | |
-| 02 Echo Filt     | Marshall Echohead EH-1    | |
-| 03 Vintage Delay | Boss DM-3     | |
-| 04 Reverse Delay | Positive Grid original    | |
-| 05 Multi Head    | Boss RE-20 / Roland RE-201 Space Echo | |
-| 06 Echo Tape     | Maestro Echoplex EP-2 Tape Delay| |
-| ●６：Reverb     | Effect  | Inspired by |
-| 01 Room Studio A |   | |
-| 02 Chamber |   | |
-| 03 Hall Natural  |   | |
-| 04 Plate Short   |   | |
-| 05 Hall Ambient  |   | |
-| 06 Plate Rich    | EMT 140 Plate Reverb| |
-| 07 Hall Medium   | Electro Harmonix Holy Grail Reverb    | |
-| 08 Plate Long    | Wampler Reflection Plate Reverb | |
-| 09 Room Studio B |   | |
-| ●７：Experience Jimi Hendrix? for Spark | Effect  | Inspired by |
-| J.H. Axle Fuzz   | Roger Mayer Axis Fuzz     | |
-| J.H. Super Fuzz  | Marshall Supa Fuzz  | |
-| J.H. Octave Fuzz | Roger Mayer Octavia | |
-| J.H. Fuzz Zone   | Maestro FZ-1 Fuzz-Tone    | |
-| J.H. Legendary Wah     | Vox 846 wah-wah pedal     | |
-| J.H. Legendary Vibe    | Roger Mayer Voodoo Vibe Junior  |
+| ●１：Gate | Effect  | Inspired by   | Memo |
+|------------------------------------|---------------------|---------------------------------------|------|
+| 1    | Noise Gate    |   ||
+| ●２：Compression| Effect  | Inspired by   | Memo |
+| 2    | 01 LA Comp    | Teletronix LA-2A Compressor     ||
+| 3    | 02 Sustain Comp     | Boss CS-3     ||
+| 4    | 03 Red Comp   | MXR Dyna Comp ||
+| 5    | 04 Bass Comp  | EBS Multicomp ||
+| 6    | 05 Optical Comp     | BBE Opto Stomp||
+| ●３：Drive| Effect  | Inspired by   | Memo |
+| 7    | 01 Booster    | MXR Micro Amp ||
+| 8    | 02 Clone Drive| Klon Centaur  ||
+| 9    | 03 Tube Drive | Ibanez Tube Screamer||
+| 10   | 04 Over Drive | Boss OD-3     ||
+| 11   | 05 Fuzz Face  | Dunlop or Arbiter Fuzz Face     ||
+| 12   | 06 Black Op   | Pro Co RAT    ||
+| 13   | 07 Bass Muff  | Electro Harmonix Bass Big Muff Pi     ||
+| 14   | 08 Guitar Muff| Electro Harmonix Big Muff ||
+| 15   | 09 Bassmaster | Maestro Bass Brassmaster  ||
+| 16   | 10 SAB Driver | Wampler Plexi-Drive ||
+| ●４：Mod/EQ     | Effect  | Inspired by   | Memo |
+| 17   | 01 Tremolo    | Mad Professor Mellow Yellow     ||
+| 18   | 02 Chorus     | Boss CH-1 Super Chorus    ||
+| 19   | 03 Flanger    | Electro Harmonix Electric Mistress    ||
+| 20   | 04 Phaser     | MXR M-107 Phase 100 ||
+| 21   | 05 Vibrato    | BBE Mind Bender (vibrato switch only) ||
+| 22   | 06 UniVibe    | Shi-Nei Uni-vibe    ||
+| 23   | 07 Cloner Chorus    | Electro Harmonix Small Clone    ||
+| 24   | 08 Classic Vibe     | Voodoo Lab Micro Vibe     ||
+| 25   | 09 Tremolator | Demeter TRM-1 Tremulator  ||
+| 26   | 10 Tremolo Square   | TC Electronic Pipelilne   ||
+| 27   | 11 Guitar EQ  | MXR M109||
+| 28   | 12 Bass EQ    | MXR M109||
+| ●５：Delay| Effect  | Inspired by   | Memo |
+| 29   | 01 Digital Delay    | Boss DD-3 Digital Delay   ||
+| 30   | 02 Echo Filt  | Marshall Echohead EH-1    ||
+| 31   | 03 Vintage Delay    | Boss DM-3     ||
+| 32   | 04 Reverse Delay    | Positive Grid original    ||
+| 33   | 05 Multi Head | Boss RE-20 / Roland RE-201 Space Echo ||
+| 34   | 06 Echo Tape  | Maestro Echoplex EP-2 Tape Delay||
+| ●６：Reverb     | Effect  | Inspired by   | Memo |
+| 35   | 01 Room Studio A    |   ||
+| 36   | 02 Chamber    |   ||
+| 37   | 03 Hall Natural     |   ||
+| 38   | 04 Plate Short|   ||
+| 39   | 05 Hall Ambient     |   ||
+| 40   | 06 Plate Rich | EMT 140 Plate Reverb||
+| 41   | 07 Hall Medium| Electro Harmonix Holy Grail Reverb    ||
+| 42   | 08 Plate Long | Wampler Reflection Plate Reverb ||
+| 43   | 09 Room Studio B    |   ||
+| ●７：Jimi Hendrix | Effect  | Inspired by   | Memo |
+| 44   | J.H. Axle Fuzz| Roger Mayer Axis Fuzz     ||
+| 45   | J.H. Super Fuzz     | Marshall Supa Fuzz  ||
+| 46   | J.H. Octave Fuzz    | Roger Mayer Octavia ||
+| 47   | J.H. Fuzz Zone| Maestro FZ-1 Fuzz-Tone    ||
+| 48   | J.H. Legendary Wah  | Vox 846 wah-wah pedal     ||
+| 49   | J.H. Legendary Vibe | Roger Mayer Voodoo Vibe Junior  |
+
+
+
