@@ -85,7 +85,7 @@
 | 9  | ![alt text](images/MODEQ/10.png) | Tremolator | 10 Tremolator  | Demeter TRM-1 Tremulator  | Depth | Speed| BPM| | | | |
 | 10 | ![alt text](images/MODEQ/11.png) | TremoloSquare | 11 Tremolo Square | TC Electronic Pipelilne| SPEED | DEPTH| LEVEL | | | | |
 | 11 | ![alt text](images/MODEQ/12.png) | GuitarEQ6  | 12 Guitar EQ| MXR M109| LEVEL | 100Hz| 200Hz | 400Hz | 800Hz | 1.6kHz| 3.2kHz|
-| 12 | ![alt text](images/REVERB/09.png) | BassEQ6 | 13 Bass EQ  | MXR M109| LEVEL | 50Hz | 120Hz | 400Hz | 800Hz | 4.5kHz| 10kHz |
+| 12 | ![alt text](images/MODEQ/13.png) | BassEQ6 | 13 Bass EQ  | MXR M109| LEVEL | 50Hz | 120Hz | 400Hz | 800Hz | 4.5kHz| 10kHz |
   
 ## 6.DELAY
   
