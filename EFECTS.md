@@ -62,9 +62,9 @@
 | 24 | ![alt text](images/AMP/30.png) | Invader  | 30 Rocker V  | Orange Rockerverb 50| Metal  | ●●●● ||
 | 25 | ![alt text](images/AMP/31.png) | BE101 | 31 BE 101 | Friedman BE100| Metal  | ●●●● ||
 | 26 | ![alt text](images/AMP/32.png) | Acoustic | 32 Pure Acoustic| PG Original| Acoustic  |||
-| 27 |  | AcousticAmpV2  | 33 Fishboy| Fishman Acoustic Amp| Acoustic  |||
+| 27 | ![alt text](images/AMP/33.png) | AcousticAmpV2  | 33 Fishboy| Fishman Acoustic Amp| Acoustic  |||
 | 28 | ![alt text](images/AMP/34.png) | FatAcousticV2  | 34 Jumbo  | PG Original| Acoustic  |||
-| 29 |  | FlatAcoustic| 35 Flat Acoustic| PG Original| Acoustic  |||
+| 29 | ![alt text](images/AMP/35.png) | FlatAcoustic| 35 Flat Acoustic| PG Original| Acoustic  |||
 | 30 | ![alt text](images/AMP/36.png) | GK800 | 36 RB-800 | Gallien-Krueger 800RB  | Bass|||
 | 31 | ![alt text](images/AMP/37.png) | Sunny3000| 37 Sunny 3000| Sunn 300T  | Bass|||
 | 32 | ![alt text](images/AMP/38.png) | W600  | 38 W600| Eden WTP600| Bass|||
