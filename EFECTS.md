@@ -1,4 +1,5 @@
-# SparkApp
+# SparkApp エフェクト 一覧
+[戻る](./README.md)
 ## 1.GATE
   
 | No | images | DSP ID         | Name       | index 0 | index 1 | index 2 |
