@@ -32,6 +32,7 @@
 | 10 | ![alt text](images/DRIVE/14.png)       | SABdriver         | 14 SAB Driver  | Wampler Plexi-Drive               | VOLUME     | TONE        | DRIVE     |
   
 ## 4.AMP
+つまみは全機種共通で、「GAIN、BASS、MIDDLE、TREBLE、VOLUME」の５つ。  
   
 | No | images | dspId             | Amp                   | 参照モデル                        | カテゴリ      | 目安   | memo |
 |----|--------|-------------------|-----------------------|------------------------------|-----------|------|------|
@@ -86,6 +87,8 @@
 | 11 | ![alt text](images/MODEQ/12.png)       | GuitarEQ6     | 12 Guitar EQ      | MXR M109                              | LEVEL          | 100Hz            | 200Hz          | 400Hz          | 800Hz          | 1.6kHz         | 3.2kHz         |
 | 12 | ![alt text](images/REVERB/09.png)       | BassEQ6       | 13 Bass EQ        | MXR M109                              | LEVEL          | 50Hz             | 120Hz          | 400Hz          | 800Hz          | 4.5kHz         | 10kHz          |
   
+## 6.DELAY
+  
 | No | Images | DSP ID | DELAY | 参照モデル | index 0 | index 1 | index 2 | index 3 | index 4 |
 |----|--------|----------------|------------------|---------------------------------------|----------------|----------------|----------------|----------------|----------------|
 | 1  | ![alt text](images/DELAY/01.png) | DelayMono | 01 Digital Delay | Boss DD-3 Digital Delay | E.LEVEL | F.BACK | D.TIME | MODE | BPM |
@@ -94,4 +97,6 @@
 | 4  | ![alt text](images/DELAY/04.png)       | DelayReverse   | 04 Reverse Delay | Positive Grid original                | MIX            | DECAY          | FILTER         | TIME           | BPM            |
 | 5  | ![alt text](images/DELAY/05.png)       | DelayMultiHead | 05 Multi Head    | Boss RE-20 / Roland RE-201 Space Echo | REPEAT RATE    | INTENSITY      | ECHO VOL.      | MODE SELECTOR  | BPM            |
 | 6  | ![alt text](images/DELAY/06.png)       | DelayRe201     | 06 Echo Tape     | Maestro Echoplex EP-2 Tape Delay      | SUSTAIN        | VOLUME         | TONE           | SHORT/LONG     | BPM            |  
+  
+## 7.REVERB
   
