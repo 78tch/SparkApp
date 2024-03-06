@@ -113,3 +113,4 @@
 | 8  | ![alt text](images/REVERB/08.png) | bias.reverb | 08 Plate Long | Wampler Reflection Plate Reverb ||
 | 9  | ![alt text](images/REVERB/09.png) | bias.reverb | 09 Room Studio B |
   
+[戻る](./README.md)
