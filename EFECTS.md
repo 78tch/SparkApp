@@ -17,7 +17,7 @@
 | 5  | ![alt text](images/COMPWAH/05.png)       | BBEOpticalComp | 05 Optical Comp | BBE Opto Stomp              | VOLUME  | COMP           | PAD(-15dB/0dB)   |
   
 ## 3.DRIVE
-
+  
 | No | Images | DSP ID | DRIVE | 参照モデル | index 0 | index 1 | index 2 |
 |----|--------|-------------------|----------------|-----------------------------------|------------|-------------|-----------|
 | 1  | ![alt text](images/DRIVE/01.png)       | Booster           | 01 Booster     | MXR Micro Amp                     | GAIN       |             |           |
@@ -68,5 +68,30 @@
 | 31 | ![alt text](images/AMP/37.png)       | Sunny3000         | 37 Sunny 3000         | Sunn 300T                    | Bass      |      |      |
 | 32 | ![alt text](images/AMP/38.png)       | W600              | 38 W600               | Eden WTP600                  | Bass      |      |      |
 | 33 | ![alt text](images/AMP/39.png)       | Hammer500         | 39 Hammer 500         | Aguilar Tone Hammer 500      | Bass      |
-
-
+  
+## 5.MOD/EQ
+  
+| No | Images | DSP ID | MOD/EQ | 参照モデル | index 0 | index 1 | index 2 | index 3 | index 4 | index 5 | index 6 |
+|----|--------|---------------|-------------------|---------------------------------------|----------------|------------------|----------------|----------------|----------------|----------------|----------------|
+| 1  | ![alt text](images/MODEQ/01.png)       | Tremolo       | 01 Tremolo        | Mad Professor Mellow Yellow           | SPEED          | DEPTH            | LEVEL          |                |                |                |                |
+| 2  | ![alt text](images/MODEQ/02.png)       | ChorusAnalog  | 02 Chorus         | Boss CH-1 Super Chorus                | E.LEVEL        | RATE             | DEPTH          | TONE           |                |                |                |
+| 3  | ![alt text](images/MODEQ/03.png)       | Flanger       | 03 Flanger        | Electro Harmonix Electric Mistress    | RATE           | MIX              | DEPTH          |                |                |                |                |
+| 4  | ![alt text](images/MODEQ/04.png)       | Phaser        | 04 Phaser         | MXR M-107 Phase 100                   | SPEED          | INTENSITY        |                |                |                |                |                |
+| 5  | ![alt text](images/MODEQ/05.png)       | Vibrato01     | 05 Vibrato        | BBE Mind Bender (vibrato switch only) | SPEED          | DEPTH            |                |                |                |                |                |
+| 6  | ![alt text](images/MODEQ/06.png)       | UniVibe       | 06 UniVibe        | Shi-Nei Uni-vibe                      | SPEED          | Chorus / Vibrato | INTENSITY      |                |                |                |                |
+| 7  | ![alt text](images/MODEQ/08.png)       | Cloner        | 08 Cloner Chorus  | Electro Harmonix Small Clone          | RATE           | DEPTH HIGH / LOW |                |                |                |                |                |
+| 8  | ![alt text](images/MODEQ/09.png)       | MiniVibe      | 09 Classic Vibe   | Voodoo Lab Micro Vibe                 | SPEED          | INTENSITY        |                |                |                |                |                |
+| 9  | ![alt text](images/MODEQ/10.png)       | Tremolator    | 10 Tremolator     | Demeter TRM-1 Tremulator              | Depth          | Speed            | BPM            |                |                |                |                |
+| 10 | ![alt text](images/MODEQ/11.png)       | TremoloSquare | 11 Tremolo Square | TC Electronic Pipelilne               | SPEED          | DEPTH            | LEVEL          |                |                |                |                |
+| 11 | ![alt text](images/MODEQ/12.png)       | GuitarEQ6     | 12 Guitar EQ      | MXR M109                              | LEVEL          | 100Hz            | 200Hz          | 400Hz          | 800Hz          | 1.6kHz         | 3.2kHz         |
+| 12 | ![alt text](images/REVERB/09.png)       | BassEQ6       | 13 Bass EQ        | MXR M109                              | LEVEL          | 50Hz             | 120Hz          | 400Hz          | 800Hz          | 4.5kHz         | 10kHz          |
+  
+| No | Images | DSP ID | DELAY | 参照モデル | index 0 | index 1 | index 2 | index 3 | index 4 |
+|----|--------|----------------|------------------|---------------------------------------|----------------|----------------|----------------|----------------|----------------|
+| 1  | ![alt text](images/DELAY/01.png) | DelayMono | 01 Digital Delay | Boss DD-3 Digital Delay | E.LEVEL | F.BACK | D.TIME | MODE | BPM |
+| 2  | ![alt text](images/DELAY/02.png)       | DelayEchoFilt  | 02 Echo Filt     | Marshall Echohead EH-1                | DELAY          | FEED BACK      | LEVEL          | TONE           | BPM            |
+| 3  |  ![alt text](images/DELAY/03.png)      | VintageDelay   | 03 Vintage Delay | Boss DM-3                             | REPEAT RATE    | INTENSITY      | ECHO           | BPM            |                |
+| 4  | ![alt text](images/DELAY/04.png)       | DelayReverse   | 04 Reverse Delay | Positive Grid original                | MIX            | DECAY          | FILTER         | TIME           | BPM            |
+| 5  | ![alt text](images/DELAY/05.png)       | DelayMultiHead | 05 Multi Head    | Boss RE-20 / Roland RE-201 Space Echo | REPEAT RATE    | INTENSITY      | ECHO VOL.      | MODE SELECTOR  | BPM            |
+| 6  | ![alt text](images/DELAY/06.png)       | DelayRe201     | 06 Echo Tape     | Maestro Echoplex EP-2 Tape Delay      | SUSTAIN        | VOLUME         | TONE           | SHORT/LONG     | BPM            |  
+  
