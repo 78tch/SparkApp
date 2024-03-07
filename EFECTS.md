@@ -108,9 +108,9 @@
 | 3  | ![alt text](images/REVERB/03.png) | bias.reverb | 03 Hall Natural  |||
 | 4  | ![alt text](images/REVERB/04.png) | bias.reverb | 04 Plate Short|||
 | 5  | ![alt text](images/REVERB/05.png) | bias.reverb | 05 Hall Ambient  |||
-| 6  | ![alt text](images/REVERB/06.png) | bias.reverb | 06 Plate Rich | EMT 140 Plate Reverb||
-| 7  | ![alt text](images/REVERB/07.png) | bias.reverb | 07 Hall Medium| Electro Harmonix Holy Grail Reverb ||
-| 8  | ![alt text](images/REVERB/08.png) | bias.reverb | 08 Plate Long | Wampler Reflection Plate Reverb ||
+| 6  | ![alt text](images/REVERB/06.png) | bias.reverb | 06 Plate Rich | [EMT 140 Plate Reverb](https://mit-studio.com/archives/1264)||
+| 7  | ![alt text](images/REVERB/07.png) | bias.reverb | 07 Hall Medium| [Electro Harmonix Holy Grail Reverb](https://kcmusic.jp/ehx/holy-grail/) ||
+| 8  | ![alt text](images/REVERB/08.png) | bias.reverb | 08 Plate Long | [Wampler Reflection Plate Reverb](https://www.ishibashi.co.jp/ec/product/2306020241408) ||
 | 9  | ![alt text](images/REVERB/09.png) | bias.reverb | 09 Room Studio B |
   
 [戻る](./README.md)
