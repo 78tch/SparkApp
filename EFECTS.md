@@ -93,10 +93,10 @@
 |----|--------|----------------|------------------|---------------------------------------|----------------|----------------|----------------|----------------|----------------|
 | 1  | ![alt text](images/DELAY/01.png) | DelayMono | 01 Digital Delay | [Boss DD-3 Digital Delay](https://www.boss.info/jp/products/dd-3/) | E.LEVEL | F.BACK | D.TIME | MODE | BPM |
 | 2  | ![alt text](images/DELAY/02.png) | DelayEchoFilt  | 02 Echo Filt  | [Marshall Echohead EH-1](https://www.marshallamps.jp/products/pedals/eh_1_echohead/) | DELAY | FEED BACK| LEVEL | TONE  | BPM|
-| 3  |  ![alt text](images/DELAY/03.png)| VintageDelay| 03 Vintage Delay | Boss DM-3  | REPEAT RATE | INTENSITY| ECHO  | BPM| |
+| 3  |  ![alt text](images/DELAY/03.png)| VintageDelay| 03 Vintage Delay | [Boss DM-3](https://www.digimart.net/magazine/article/2015022501339.html)  | REPEAT RATE | INTENSITY| ECHO  | BPM| |
 | 4  | ![alt text](images/DELAY/04.png) | DelayReverse| 04 Reverse Delay | Positive Grid original | MIX| DECAY | FILTER| TIME  | BPM|
-| 5  | ![alt text](images/DELAY/05.png) | DelayMultiHead | 05 Multi Head | Boss RE-20 / Roland RE-201 Space Echo | REPEAT RATE | INTENSITY| ECHO VOL.| MODE SELECTOR  | BPM|
-| 6  | ![alt text](images/DELAY/06.png) | DelayRe201  | 06 Echo Tape  | Maestro Echoplex EP-2 Tape Delay| SUSTAIN  | VOLUME| TONE  | SHORT/LONG  | BPM|  
+| 5  | ![alt text](images/DELAY/05.png) | DelayMultiHead | 05 Multi Head | [Boss RE-20](https://www.boss.info/jp/products/re-20/) / [Roland RE-201 Space Echo](https://www.roland.com/jp/news/0967/) | REPEAT RATE | INTENSITY| ECHO VOL.| MODE SELECTOR  | BPM|
+| 6  | ![alt text](images/DELAY/06.png) | DelayRe201  | 06 Echo Tape  | [Maestro Echoplex EP-2 Tape Delay](https://www.digimart.net/magazine/article/2016082402152.html)| SUSTAIN  | VOLUME| TONE  | SHORT/LONG  | BPM|  
   
 ## 7.REVERB
 つまみは全機種共通で、「LEVEL、DAMPING、DWELL、TIME、LOW CUT、HIGH CUT」の６つ。  
