@@ -8,7 +8,7 @@
   
 ## 2.COMP/WAH
   
-| No | Images | dspId | COMP/WAH  | 参照モデル  | index 0 | index 1  | index 2 | index 3 |
+| No | Images | DSP ID | COMP/WAH  | 参照モデル  | index 0 | index 1  | index 2 | index 3 |
 |----|--------|----------------|-----------------|-----------------------------|---------|----------------|------------------|---------|
 | 1  | ![alt text](images/COMPWAH/01.png) | LA2AComp | 01 LA Comp| Teletronix LA-2A Compressor | GAIN | PEAK REDUCTION | LIMIT / COMPRESS ||
 | 2  | ![alt text](images/COMPWAH/02.png) | BlueComp | 02 Sustain Comp | Boss CS-3 | LEVEL| TONE  | ATTACK  | SUSTAIN |
@@ -34,7 +34,7 @@
 ## 4.AMP
 つまみは全機種共通で、「GAIN、BASS、MIDDLE、TREBLE、VOLUME」の５つ。  
   
-| No | images | dspId | Amp | 参照モデル| カテゴリ| 目安| memo |
+| No | images | DSP ID | AMP | 参照モデル | カテゴリ | 目安 | memo |
 |----|--------|-------------------|-----------------------|------------------------------|-----------|------|------|
 | 1  | ![alt text](images/AMP/01.png) | RolandJC120 | 01 Silver 120| Roland JC120  | Clean  | ○○○○ ||
 | 2  | ![alt text](images/AMP/02.png) | Twin  | 02 Black Duo | Fender Twin Reverb  | Clean  | ○○○○ ||
