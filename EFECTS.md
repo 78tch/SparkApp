@@ -12,8 +12,8 @@
 |----|--------|----------------|-----------------|-----------------------------|---------|----------------|------------------|---------|
 | 1  | ![alt text](images/COMPWAH/01.png) | LA2AComp | 01 LA Comp| [Teletronix LA-2A Compressor](https://hookup.co.jp/products/universal-audio/uafx-teletronix-la-2a-studio-compressor) | GAIN | PEAK REDUCTION | LIMIT / COMPRESS ||
 | 2  | ![alt text](images/COMPWAH/02.png) | BlueComp | 02 Sustain Comp | [Boss CS-3](https://www.boss.info/jp/products/cs-3/) | LEVEL| TONE  | ATTACK  | SUSTAIN |
-| 3  | ![alt text](images/COMPWAH/03.png) | Compressor  | 03 Red Comp  | MXR Dyna Comp| OUTPUT  | SENSITIVITY |||
-| 4  | ![alt text](images/COMPWAH/04.png) | BassComp | 04 Bass Comp | EBS Multicomp| COMP | GAIN  |||
+| 3  | ![alt text](images/COMPWAH/03.png) | Compressor  | 03 Red Comp  | [MXR Dyna Comp](https://moridaira.co.jp/posts/mxr-m102)| OUTPUT  | SENSITIVITY |||
+| 4  | ![alt text](images/COMPWAH/04.png) | BassComp | 04 Bass Comp | [EBS Multicomp](https://moridaira.co.jp/posts/ebs-multicomp-se) | COMP | GAIN  |||
 | 5  | ![alt text](images/COMPWAH/05.png) | BBEOpticalComp | 05 Optical Comp | BBE Opto Stomp  | VOLUME  | COMP  | PAD(-15dB/0dB)|
   
 ## 3.DRIVE
