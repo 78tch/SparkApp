@@ -8,13 +8,13 @@
   
 ## 2.COMP/WAH
   
-| No | Images | DSP ID | COMP/WAH  | 参照モデル  | index 0 | index 1  | index 2 | index 3 |
-|----|--------|----------------|-----------------|-----------------------------|---------|----------------|------------------|---------|
-| 1  | ![alt text](images/COMPWAH/01.png) | LA2AComp | 01 LA Comp| Teletronix LA-2A Compressor | GAIN | PEAK REDUCTION | LIMIT / COMPRESS ||
-| 2  | ![alt text](images/COMPWAH/02.png) | BlueComp | 02 Sustain Comp | Boss CS-3 | LEVEL| TONE  | ATTACK  | SUSTAIN |
-| 3  | ![alt text](images/COMPWAH/03.png) | Compressor  | 03 Red Comp  | MXR Dyna Comp| OUTPUT  | SENSITIVITY |||
-| 4  | ![alt text](images/COMPWAH/04.png) | BassComp | 04 Bass Comp | EBS Multicomp| COMP | GAIN  |||
-| 5  | ![alt text](images/COMPWAH/05.png) | BBEOpticalComp | 05 Optical Comp | BBE Opto Stomp  | VOLUME  | COMP  | PAD(-15dB/0dB)|
+| No | Images | DSP ID | COMP/WAH  | 参照モデル  | index 0 | index 1  | index 2 | index 3 |memo |
+|----|--------|----------------|-----------------|-----------------------------|---------|----------------|------------------|---------|--|
+| 1  | ![alt text](images/COMPWAH/01.png) | LA2AComp | 01 LA Comp| [Teletronix LA-2A Compressor](https://hookup.co.jp/products/universal-audio/uafx-teletronix-la-2a-studio-compressor) | GAIN | PEAK REDUCTION | LIMIT / COMPRESS |||
+| 2  | ![alt text](images/COMPWAH/02.png) | BlueComp | 02 Sustain Comp | Boss CS-3 | LEVEL| TONE  | ATTACK  | SUSTAIN ||
+| 3  | ![alt text](images/COMPWAH/03.png) | Compressor  | 03 Red Comp  | MXR Dyna Comp| OUTPUT  | SENSITIVITY ||||
+| 4  | ![alt text](images/COMPWAH/04.png) | BassComp | 04 Bass Comp | EBS Multicomp| COMP | GAIN  ||||
+| 5  | ![alt text](images/COMPWAH/05.png) | BBEOpticalComp | 05 Optical Comp | BBE Opto Stomp  | VOLUME  | COMP  | PAD(-15dB/0dB)||
   
 ## 3.DRIVE
   
