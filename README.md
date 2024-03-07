@@ -55,24 +55,28 @@
 ## 7.「AMP」の概要
 1. 「AMP」 のモデルは、０１～３９の３９種類あるが、うち６種類は有償なので、実質は３３種類。すべて、もとになった製品「参照モデル」が公式から示されている。  
 2. 有償なのは、（０６、０７、１３、１４、１９、２０）の６種類。  
-3. 設定つまみは、全モデル共通で、「Gain、Bass、Middle、Treble、Volume」の５つ。
+3. 設定ツマミは、全モデル共通で、「Gain、Bass、Middle、Treble、Volume」の５つ。
 4. アンプのキャラクターのカテゴリーとして、「Clean」「Glassy」「Crunch」「High Gain」「Metal」「Acoustic」「Bass」の７種類ある。３３種類を網羅的に試さなくても、「参照モデル」や「カテゴリー」から、試すアンプを絞ると効率がよい。
   
 ## 8.「DRIVE」の概要
 1. 「DRIVE」のモデルは０１～１０の１０種類。もとになった製品「参照モデル」は、公式から示されている資料は見つけられなかったが、プリセットのバックアップデータのなかをみると、「DSP ID」がもとになった製品名そのままだったりするので、アイコンと併せてみることで、ほぼ特定できる。
-2. ツマミは「Gain（Drive）、Level（Volume）、Tone」の３つだが、Toneはないものもある。
+2. 設定ツマミは「Gain（Drive）、Level（Volume）、Tone」の３つだが、Toneはないものもある。
 3. 「Gain（Drive）」で音を作り、ONとOFFで音量が変わらないように「Level（Volume）」を調節する、という手順で設定する。
   
 ## 9.「REVERB」の概要
 1. 「REVERB」のモデルは０１～０９の９種類。ROOM、HALL、PLATE。SPRINGは無い？特定の参照モデルのないものもあり、それはPositiveGrid オリジナルであるようす。
-2. 設定つまみは、全モデル共通で、「LEVEL、DAMPING、DWELL、TIME、LOW CUT、HIGH CUT」の６つ。
+2. 設定ツマミは、全モデル共通で、「LEVEL、DAMPING、DWELL、TIME、LOW CUT、HIGH CUT」の６つ。
 3. 「LEVEL」は、残響音の音量。
 4. 「DAMPING」は、残響音が吸収される周波数。空間に人などがいる場合の響き方。
 5. 「DWELL」は、減衰の長さ。
 6. 「TIME」とは、残響音の長さ。
-
+  
 ## 10.NOISE GATE の概要
-
+1. 「GATE」のモデルは１種類。
+2. 設定ツマミは「Threshold、Decay」の２つ。
+3. 「Threshold」は、音をカットする音量の基準値。
+4. 「Decay」は、カットがかかり終わるまでの時間の長さ。
+  
 ## 11.COMP/WAH の概要
 音が明瞭になって、アンサンブルで埋もれにくくなるので、必要に応じてONにする。  
 ## 12.MOD/EQ の概要
