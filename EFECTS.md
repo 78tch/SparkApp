@@ -74,17 +74,17 @@
   
 | No | Images | DSP ID | MOD/EQ | 参照モデル | index 0 | index 1 | index 2 | index 3 | index 4 | index 5 | index 6 |
 |----|--------|---------------|-------------------|---------------------------------------|----------------|------------------|----------------|----------------|----------------|----------------|----------------|
-| 1  | ![alt text](images/MODEQ/01.png) | Tremolo | 01 Tremolo  | Mad Professor Mellow Yellow  | SPEED | DEPTH| LEVEL | | | | |
-| 2  | ![alt text](images/MODEQ/02.png) | ChorusAnalog  | 02 Chorus| Boss CH-1 Super Chorus | E.LEVEL  | RATE | DEPTH | TONE  | | | |
-| 3  | ![alt text](images/MODEQ/03.png) | Flanger | 03 Flanger  | Electro Harmonix Electric Mistress | RATE  | MIX  | DEPTH | | | | |
-| 4  | ![alt text](images/MODEQ/04.png) | Phaser  | 04 Phaser| MXR M-107 Phase 100 | SPEED | INTENSITY  | | | | | |
-| 5  | ![alt text](images/MODEQ/05.png) | Vibrato01  | 05 Vibrato  | BBE Mind Bender (vibrato switch only) | SPEED | DEPTH| | | | | |
-| 6  | ![alt text](images/MODEQ/06.png) | UniVibe | 06 UniVibe  | Shi-Nei Uni-vibe | SPEED | Chorus / Vibrato | INTENSITY| | | | |
-| 7  | ![alt text](images/MODEQ/08.png) | Cloner  | 08 Cloner Chorus  | Electro Harmonix Small Clone | RATE  | DEPTH HIGH / LOW | | | | | |
-| 8  | ![alt text](images/MODEQ/09.png) | MiniVibe| 09 Classic Vibe| Voodoo Lab Micro Vibe  | SPEED | INTENSITY  | | | | | |
-| 9  | ![alt text](images/MODEQ/10.png) | Tremolator | 10 Tremolator  | Demeter TRM-1 Tremulator  | Depth | Speed| BPM| | | | |
-| 10 | ![alt text](images/MODEQ/11.png) | TremoloSquare | 11 Tremolo Square | TC Electronic Pipelilne| SPEED | DEPTH| LEVEL | | | | |
-| 11 | ![alt text](images/MODEQ/12.png) | GuitarEQ6  | 12 Guitar EQ| MXR M109| LEVEL | 100Hz| 200Hz | 400Hz | 800Hz | 1.6kHz| 3.2kHz|
+| 1  | ![alt text](images/MODEQ/01.png) | Tremolo | 01 Tremolo  | [Mad Professor Mellow Yellow](https://kcmusic.jp/mpamp/1332)  | SPEED | DEPTH| LEVEL | | | | |
+| 2  | ![alt text](images/MODEQ/02.png) | ChorusAnalog  | 02 Chorus| [Boss CH-1 Super Chorus](https://www.boss.info/jp/products/ch-1/) | E.LEVEL  | RATE | DEPTH | TONE  | | | |
+| 3  | ![alt text](images/MODEQ/03.png) | Flanger | 03 Flanger  | [Electro Harmonix Electric Mistress](https://kcmusic.jp/ehx/sem/) | RATE  | MIX  | DEPTH | | | | |
+| 4  | ![alt text](images/MODEQ/04.png) | Phaser  | 04 Phaser| [MXR M-107 Phase 100](https://moridaira.co.jp/posts/mxr-m107) | SPEED | INTENSITY  | | | | | |
+| 5  | ![alt text](images/MODEQ/05.png) | Vibrato01  | 05 Vibrato  | [BBE Mind Bender (vibrato switch only)](http://jabe-guitar.shop-pro.jp/?pid=173256785) | SPEED | DEPTH| | | | | |
+| 6  | ![alt text](images/MODEQ/06.png) | UniVibe | 06 UniVibe  | [Shi-Nei Uni-vibe](https://tgr-guitar.com/effector/tremolo-uni-vibe.html) | SPEED | Chorus / Vibrato | INTENSITY| | | | |
+| 7  | ![alt text](images/MODEQ/08.png) | Cloner  | 08 Cloner Chorus  | [Electro Harmonix Small Clone](https://kcmusic.jp/ehx/smallclone/) | RATE  | DEPTH HIGH / LOW | | | | | |
+| 8  | ![alt text](images/MODEQ/09.png) | MiniVibe| 09 Classic Vibe| [Voodoo Lab Micro Vibe](https://www.digimart.net/cat13/shop5155/DS08555508/)  | SPEED | INTENSITY  | | | | | |
+| 9  | ![alt text](images/MODEQ/10.png) | Tremolator | 10 Tremolator  | [Demeter TRM-1 Tremulator](https://umbrella-company.jp/products/trm-1-tremulator/)  | Depth | Speed| BPM| | | | |
+| 10 | ![alt text](images/MODEQ/11.png) | TremoloSquare | 11 Tremolo Square | [TC Electronic Pipelilne](https://electori.co.jp/tcelectronic/PIPELINE_TAP_TREMOLO.htm)| SPEED | DEPTH| LEVEL | | | | |
+| 11 | ![alt text](images/MODEQ/12.png) | GuitarEQ6  | 12 Guitar EQ| [MXR M109](https://www.watanabe-mi.com/honten/list/p90832/)| LEVEL | 100Hz| 200Hz | 400Hz | 800Hz | 1.6kHz| 3.2kHz|
 | 12 | ![alt text](images/MODEQ/13.png) | BassEQ6 | 13 Bass EQ  | MXR M109| LEVEL | 50Hz | 120Hz | 400Hz | 800Hz | 4.5kHz| 10kHz |
   
 ## 6.DELAY
