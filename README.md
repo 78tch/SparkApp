@@ -59,7 +59,10 @@
 4. アンプのキャラクターのカテゴリーとして、「Clean」「Glassy」「Crunch」「High Gain」「Metal」「Acoustic」「Bass」の７種類ある。３３種類を網羅的に試さなくても、「参照モデル」や「カテゴリー」から、試すアンプを絞ると効率がよい。
   
 ## 8.「DRIVE」の概要
-
+1. 「DRIVE」のモデルは０１～１０の１０種類。もとになった製品「参照モデル」は、公式から示されている資料は見つけられなかったが、プリセットのバックアップデータのなかをみると、「DSP ID」がもとになった製品名そのままだったりするので、アイコンと併せてみることで、ほぼ特定できる。
+2. ツマミは「Gain（Drive）、Level（Volume）、Tone」の３つだが、Toneはないものもある。
+3. 「Gain（Drive）」で音を作り、ONとOFFで音量が変わらないように「Level（Volume）」を調節する、という手順で設定する。
+  
 ## 9.「REVERB」の概要
 1. 「REVERB」のモデルは０１～０９の９種類。ROOM、HALL、PLATE。SPRINGは無い？特定の参照モデルのないものもあり、それはPositiveGrid オリジナルであるようす。
 2. 設定つまみは、全モデル共通で、「LEVEL、DAMPING、DWELL、TIME、LOW CUT、HIGH CUT」の６つ。
