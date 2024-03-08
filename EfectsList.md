@@ -19,6 +19,7 @@
 | 5  | ![alt text](images/COMPWAH/05.png) | BBEOpticalComp | 05 Optical Comp | BBE Opto Stomp  | VOLUME  | COMP  | PAD(-15dB/0dB)|
   
 ## 3.DRIVE
+「Gain（Drive）」で音を作り、ONとOFFで音量が変わらないように「Level（Volume）」を調節する、という手順で設定する。  
   
 | No | Images | DSP ID | DRIVE | 参照モデル | index 0 | index 1 | index 2 |
 |----|--------|-------------------|----------------|-----------------------------------|------------|-------------|-----------|
@@ -34,7 +35,9 @@
 | 10 | ![alt text](images/DRIVE/14.png) | SABdriver| 14 SAB Driver  | [Wampler Plexi-Drive](https://effector-hakase.com/overdrive/10917/)| VOLUME  | TONE  | DRIVE  |
   
 ## 4.AMP
-つまみは全機種共通で、「GAIN、BASS、MIDDLE、TREBLE、VOLUME」の５つ。  
+設定ツマミは、全モデル共通で、「Gain、Bass、Middle、Treble、Volume」の５つ。  
+実機にあるような、チャンネル切替や、リバーブなどの機能は、一切ない。  
+アンプのキャラクターのカテゴリーとして、「Clean」「Glassy」「Crunch」「High Gain」「Metal」「Acoustic」「Bass」の７種類ある。  
   
 | No | images | DSP ID | AMP | 参照モデル | カテゴリ | 目安 | memo |
 |----|--------|-------------------|-----------------------|------------------------------|-----------|------|------|
@@ -73,6 +76,8 @@
 | 33 | ![alt text](images/AMP/39.png) | Hammer500| 39 Hammer 500| Aguilar Tone Hammer 500| Bass|
   
 ## 5.MOD/EQ
+トレモロ、フランジャー、フェイザー、ビブラートなど、かなり音が変わるので、必要に応じてONにする。  
+普通にかける（１２時とか）と音が変わり過ぎるとしても、ごくごく弱く（メモリ０．５とか）掛けると、そこまで音は変わらず、奥行き感がでる。  
   
 | No | Images | DSP ID | MOD/EQ | 参照モデル | index 0 | index 1 | index 2 | index 3 | index 4 | index 5 | index 6 |
 |----|--------|---------------|-------------------|---------------------------------------|----------------|------------------|----------------|----------------|----------------|----------------|----------------|
@@ -90,6 +95,8 @@
 | 12 | ![alt text](images/MODEQ/13.png) | BassEQ6 | 13 Bass EQ  | MXR M109| LEVEL | 50Hz | 120Hz | 400Hz | 800Hz | 4.5kHz| 10kHz |
   
 ## 6.DELAY
+ディレイ、スペースエコー、テープエコーなど、かなり音が変わるので、必要に応じてONにする。  
+普通にかける（１２時とか）と音が変わり過ぎるとしても、ごくごく弱く（９時とか）掛けると、そこまで音は変わらず、奥行き感がでる。  
   
 | No | Images | DSP ID | DELAY | 参照モデル | index 0 | index 1 | index 2 | index 3 | index 4 |
 |----|--------|----------------|------------------|---------------------------------------|----------------|----------------|----------------|----------------|----------------|
@@ -101,7 +108,11 @@
 | 6  | ![alt text](images/DELAY/06.png) | DelayRe201  | 06 Echo Tape  | [Maestro Echoplex EP-2 Tape Delay](https://www.digimart.net/magazine/article/2016082402152.html)| SUSTAIN  | VOLUME| TONE  | SHORT/LONG  | BPM|  
   
 ## 7.REVERB
-つまみは全機種共通で、「LEVEL、DAMPING、DWELL、TIME、LOW CUT、HIGH CUT」の６つ。  
+設定ツマミは、全モデル共通で、「LEVEL、DAMPING、DWELL、TIME、LOW CUT、HIGH CUT」の６つ。  
+「LEVEL」は、残響音の音量。  
+「DAMPING」は、残響音が吸収される周波数。空間に人などがいる場合の響き方。  
+「DWELL」は、減衰の長さ。  
+「TIME」とは、残響音の長さ。  
   
 | No | Images | DSP ID | REVERB | 参照モデル | memo |
 |----|--------|-------------|------------------|------------------------------------|------|
