@@ -19,5 +19,11 @@
 | 4  | ![alt text](images/Backup/04.png) | プリセットのフォルダのなかには、アイコン画像である「icon.png」ファイルと、プリセットの本体である「preset.json」ファイルが格納されている。「preset.json」はテキストファイルであり、開くとどういう設定になっているか、読むことができる。|
   
 ## 3.バックアップ
+| No | Images | Memo|
+|---|---|---|
+|1|![alt text](images/JSON/01.png)|「category.json」ファイルには、プリセットＩＤが書き込まれていて、各プリセットがアプリで表示される並び順は、このファイルに書かれている順である。|
+|2|![alt text](images/JSON/02.png)|プリセットのフォルダのなかの「preset.json」ファイル。|
+|3|![alt text](images/JSON/03.png)|全体として|
+|4|![alt text](images/JSON/04.png)|各エフェクターの設定値|
 
 [戻る](./README.md)
