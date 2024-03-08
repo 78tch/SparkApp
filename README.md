@@ -20,12 +20,11 @@
 6. DELAY（６種類）
 7. REVERB（９種類）
   
-## 3.[エフェクトの詳細一覧](./EfectsList.md)
-エフェクトのアイコンや名前、もとになった実機などの詳細な一覧は、[こちら。](./EfectsList.md)  
+## 3.[エフェクトの概要](./EfectsMemo.md)
+エフェクト種別ごとの概要について、[こちら](./EfectsMemo.md)にまとめました。
   
-## 4.[エフェクトの概要](./EfectsMemo.md)
-SparkApp で使えるエフェクトには、「GATE」「COMP/WAH」「DRIVE」「AMP」「MOD/EQ」「DELAY」「REVERB」の７種類があります。  
-それぞれの概要について、[こちら](./EfectsMemo.md)にまとめました。
+## 4.[エフェクトの詳細一覧](./EfectsList.md)
+エフェクトのアイコンや名前、もとになった実機などの詳細な一覧は、[こちら。](./EfectsList.md)  
   
 ## 5.[音作りの手順](./HowToMakePreset.md)
 プリセットを自分でつくる手順について、[こちら](./HowToMakePreset.md)にまとめました。
