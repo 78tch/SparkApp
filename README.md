@@ -20,16 +20,15 @@
 6. DELAY（６種類）
 7. REVERB（９種類）
   
-## 3.エフェクトの詳細一覧
-エフェクトの詳細な一覧は、[こちら。](./EfectsList.md)  
+## 3.[エフェクトの詳細一覧](./EfectsList.md)
+エフェクトのアイコンや名前、もとになった実機などの詳細な一覧は、[こちら。](./EfectsList.md)  
   
-## 4.音作りの手順
-プリセットを自分でつくる手順について、[こちら](./HowToMakePreset.md)にまとめました。
-
-## [5.エフェクトの概要](./EfectsMemo.md)
+## 4.[エフェクトの概要](./EfectsMemo.md)
 SparkApp で使えるエフェクトには、「GATE」「COMP/WAH」「DRIVE」「AMP」「MOD/EQ」「DELAY」「REVERB」の７種類があります。  
 それぞれの概要について、[こちら](./EfectsMemo.md)にまとめました。
   
+## 5.[音作りの手順](./HowToMakePreset.md)
+プリセットを自分でつくる手順について、[こちら](./HowToMakePreset.md)にまとめました。
   
 ## 14.バックアップデータの特性から、「プリセット・カテゴリ」の活用
 1. プリセットのカテゴリとして、「Pop、Blues、Rock、Metal、Alternative、Bass、Acoustic」の７種類ある。
